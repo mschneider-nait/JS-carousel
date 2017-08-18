@@ -1,3 +1,4 @@
+hr.style-rainbow {
     border: 0;
     height: 4px;
     background: #ff0000;
@@ -7,3 +8,4 @@
     background: -o-linear-gradient(-45deg, #FFFFFF 0%, #1E4B8A 25%, #1E4B8A 50%, #1E4B8A 75%, $FFFFFF 100%);
     background: -ms-linear-gradient(-45deg, #FFFFFF 0%, #1E4B8A 25%, #1E4B8A 50%, #1E4B8A 75%, $FFFFFF 100%);
     background: linear-gradient(-45deg, #FFFFFF 0%, #1E4B8A 25%, #1E4B8A 50%, #1E4B8A 75%, $FFFFFF 100%);
+}
